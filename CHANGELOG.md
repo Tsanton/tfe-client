@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/Tsanton/tfe-client/compare/v0.3.1...v0.3.2) (2023-05-26)
+
+
+### Bug Fixes
+
+* hard coded error message fix ([fb26917](https://github.com/Tsanton/tfe-client/commit/fb26917b9edfa4bb92e8e60c840a50e58c6d3685))
+
 ## [0.3.1](https://github.com/Tsanton/tfe-client/compare/v0.3.0...v0.3.1) (2023-04-22)
 
 
